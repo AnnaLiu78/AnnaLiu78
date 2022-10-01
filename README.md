@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 https://media.giphy.com/media/SY8asU9xWlmgFolmSs/giphy.gif
 <!--
 **AnnaLiu78/AnnaLiu78** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
