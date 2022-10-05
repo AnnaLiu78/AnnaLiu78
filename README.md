@@ -1,4 +1,4 @@
-### Hi there 👋 https://media.giphy.com/media/SY8asU9xWlmgFolmSs/giphy.gif
+### Hi there 👋 <iframe src="https://giphy.com/embed/SY8asU9xWlmgFolmSs" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/kpop-heart-SY8asU9xWlmgFolmSs">via GIPHY</a></p>
 <!--
 **AnnaLiu78/AnnaLiu78** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,3 +13,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
