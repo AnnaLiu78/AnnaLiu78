@@ -3,6 +3,7 @@ Just a regular person doing random things ![LazyCatGIF](https://user-images.gith
 
 
 I like film making, photography, writing, crochet, crafting, drawing, anything related to being creative (❁´◡`❁)
+
 Pronouns: She/her (*/ω＼*)
 
 
